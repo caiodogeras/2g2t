@@ -1,8 +1,7 @@
 :root {
-    --fundo: rgb(203, 139, 203);
-    --fonte: black;
-    --hover: rgb(100, 23, 100);
-
+    --fundo: rgb(122, 51, 107);
+    --fonte: #fff;
+    --hover: rgb(25, 63, 112);
 }
 a {
     text-decoration: none;
